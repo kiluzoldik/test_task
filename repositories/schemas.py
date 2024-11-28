@@ -8,10 +8,6 @@ class BaseTask:
     description: str
     category: str
     due_date: str
-    priority: int
-    completed: bool = False
+    priority: str
+    status: str = 'Не выполнена'
     
-@dataclass
-class BaseCatetegory:
-    catetegory_id: int
-    name: str
