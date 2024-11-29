@@ -1,14 +1,5 @@
 [
   {
-    "task_id": 1,
-    "title": "Сделать 1",
-    "description": "Сделать что-то очень быстро",
-    "category": "Срочные дела",
-    "due_date": "12.05.2024",
-    "priority": "высокий",
-    "status": "Не выполнена"
-  },
-  {
     "task_id": 2,
     "title": "Посмотреть за кошкой",
     "description": "Животные",
@@ -25,5 +16,23 @@
     "due_date": "04.12.2024",
     "priority": "низкий",
     "status": "Не выполнена"
+  },
+  {
+    "task_id": 4,
+    "title": "Помыть машину",
+    "description": "нужно помыть машину с утра",
+    "category": "Машина",
+    "due_date": "30.11.2024",
+    "priority": "средний",
+    "status": "Выполнена"
+  },
+  {
+    "task_id": 5,
+    "title": "New Title",
+    "description": "",
+    "category": "Обучение",
+    "due_date": "01.04.2025",
+    "priority": "Средний",
+    "status": "Выполнена"
   }
 ]
